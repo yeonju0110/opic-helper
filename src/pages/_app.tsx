@@ -3,11 +3,14 @@ import 'antd/dist/reset.css';
 import '@/styles/globals.css';
 import theme from '@/styles/theme';
 import { ThemeProvider } from '@emotion/react';
+import UserProvider from '@/components/common/UserProvider';
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
-    <ThemeProvider theme={theme}>
-      <Component {...pageProps} />
-    </ThemeProvider>
+    <UserProvider>
+      <ThemeProvider theme={theme}>
+        <Component {...pageProps} />
+      </ThemeProvider>
+    </UserProvider>
   );
 }
