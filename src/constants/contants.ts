@@ -2,6 +2,7 @@ import { Gender } from '@/types/gender';
 
 export const MESSAGES = Object.freeze({
   PROJECT_NAME: 'Opic HELPER',
+  PROJECT_DESCRIPTION: 'GPT를 이용한 오픽공부 도우미입니다.',
   ACCOUNT: '@yeonju0110',
   AGE: '나이를 입력해주세요.',
   GENDER: '성별을 골라주세요.',
