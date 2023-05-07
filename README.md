@@ -1,38 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img width="1280" alt="OH11" src="https://user-images.githubusercontent.com/97719273/236699752-86915ae1-0cf3-4e57-a117-a5387d01115e.png">
 
-## Getting Started
+# 오픽 공부 도우미 "Opic HELPER with GPT"
 
-First, run the development server:
+오픽 시험 공부에 어려움을 겪는 분들을 위해, 답변 스크립트 제작을 도와드리는 서비스입니다.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+단기간에 오픽 시험에서 원하는 성적을 달성하기 위한 고민을 덜어주는, **실제 경험을 담은 서비스**입니다.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<br />
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### 🛸 타켓
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+✔️ 단기간에 오픽 IH를 달성하고 싶은 대학생 및 취준생 🙋‍♂️
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+✔️ 오픽 스크립트를 작성하는 데 어려움을 겪는 수험생 🤦‍♀️
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<br />
 
-## Learn More
+### 🛸 기술 스택
 
-To learn more about Next.js, take a look at the following resources:
+Next.JS, Typescript, Open AI, Emotion, Context API
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[✔️ 기술 선정 이유](https://github.com/yeonju0110/opic-helper/wiki)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<br />
 
-## Deploy on Vercel
+### 🛸 개발 기한
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+`2023/5/6`: 프로젝트 아이디어 빌딩, 기능명세서 및 디자인 시안 제작
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+`2023/5/7`: 기능 구현
+
+<br />
+
+### 🛸 추후 계획
+
+- **애자일 방법론**을 활용하여 완성을 목표로 하였으며, 추가적인 기능은 추후에 하나씩 업데이트 예정입니다.
+
+<br />
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/97719273/236696659-7dbf2b56-038c-4d34-a2b8-90f97e44d6a2.gif" />
+</p>
